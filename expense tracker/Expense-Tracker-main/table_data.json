@@ -1,0 +1,33 @@
+{
+    "table_data": [
+        {
+            "description": "current bill",
+            "price": "1200.00"
+        },
+        {
+            "description": "shopping",
+            "price": "3000.00"
+        },
+        {
+            "description": "entertainment",
+            "price": "500.00"
+        },
+        {
+            "description": "water bill",
+            "price": "700.00"
+        },
+        {
+            "description": "shoes",
+            "price": "1500.00"
+        },
+        {
+            "description": "rent",
+            "price": "2000.00"
+        },
+        {
+            "description": "air cooler",
+            "price": "200.00"
+        }
+    ],
+    "budget_limit": 10000.0
+}

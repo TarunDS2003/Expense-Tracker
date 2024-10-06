@@ -1,0 +1,37 @@
+{
+    "table_data": [
+        {
+            "description": "entertainment",
+            "price": "500.00"
+        },
+        {
+            "description": "water bill",
+            "price": "700.00"
+        },
+        {
+            "description": "shoes",
+            "price": "1500.00"
+        },
+        {
+            "description": "rent",
+            "price": "2000.00"
+        },
+        {
+            "description": "air cooler",
+            "price": "200.00"
+        },
+        {
+            "description": "game",
+            "price": "350.00"
+        },
+        {
+            "description": "book bill",
+            "price": "5000.00"
+        },
+        {
+            "description": "movie tickets",
+            "price": "450.00"
+        }
+    ],
+    "budget_limit": 10000.0
+}
